@@ -126,6 +126,7 @@ const GlobalStyles = createGlobalStyle`
   }
   * {
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
   }
   body {
     background: #16202c;
